@@ -1,0 +1,32 @@
+# Circle of Moms
+
+> Circle of Moms was an online community for mothers built around topical mom groups, discussion
+> threads and mom blogs. It is no longer operating. The company is a portfolio company of Uncork
+> Capital and its site was later operated under the POPSUGAR brand. Circle of Moms never published a
+> public API, developer portal, SDK, or partner platform.
+
+## Status
+
+- Operating status: defunct — no live product or developer surface as of 2026-07-20
+- circleofmoms.com: still registered (created 2006-05-01, Amazon Registrar), redirects to the POPSUGAR
+  Family page on Facebook (https://www.facebook.com/PopSugarFamily/)
+- DNS/email administered under Vox Media (DMARC `rua` delegates to g9.dmarc.voxmedia.com); MX on
+  Google Workspace
+- No `developer.circleofmoms.com` or `api.circleofmoms.com` host resolves
+- No developer, API-documentation, OAuth, or partner-platform path appears in web-archive crawls of
+  the domain
+
+## APIs
+
+None. This company has no API surface, current or historical.
+
+## Artifacts
+
+- Company profile: https://raw.githubusercontent.com/api-evangelist/circle-of-moms/refs/heads/main/apis.yml
+- Domain security probe: security/circle-of-moms-domain-security.yml
+
+## Notes for agents
+
+There is nothing here to integrate with. Do not attempt to construct or guess Circle of Moms API
+endpoints — none were ever published. Archived site content is available only through the Internet
+Archive.

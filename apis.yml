@@ -1,21 +1,59 @@
 aid: circle-of-moms
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/circle-of-moms.png
 name: Circle of Moms
-description: Circle of Moms is a company surfaced as a portfolio company of uncork-capital and added to
-  the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Circle of Moms was an online community for mothers, organized around topical mom groups, discussion
+  threads and mom blogs, covering pregnancy, babies and infants, parenting and family health. It is a
+  portfolio company of Uncork Capital (formerly SoftTech VC) and was later operated under the POPSUGAR
+  brand, whose branding appears on archived captures of the site. The service is no longer operating:
+  the circleofmoms.com domain is still registered but now redirects to the POPSUGAR Family page on
+  Facebook, and its DNS is administered under Vox Media, POPSUGAR's parent. Circle of Moms never
+  published a public API, developer portal, or partner platform — web-archive crawls of the domain
+  contain no developer, API-documentation, or OAuth paths, and no developer or api subdomain has ever
+  been recorded. This profile is retained as a historical company record with no API surface.
 url: https://raw.githubusercontent.com/api-evangelist/circle-of-moms/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - uncork-capital
+x-status: defunct
 x-tier: stub
-x-tier-reason: portfolio-lead
+x-tier-reason: defunct-no-api-surface
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Parenting
+- Community
+- Social Network
+- Online Forums
+- Media
+- Defunct
 apis: []
+common:
+- type: Website
+  url: https://www.circleofmoms.com/
+- type: DomainSecurity
+  url: security/circle-of-moms-domain-security.yml
+- type: LLMsTxt
+  url: llms/circle-of-moms-llms.txt
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 2
+  pass: local-v1
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
