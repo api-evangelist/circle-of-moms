@@ -64,15 +64,44 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Circle of Moms was an online community for mothers, organized around topical mom groups, discussion
-threads and mom blogs, covering pregnancy, babies and infants, parenting and family health.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-**Status: defunct — no API surface.** The circleofmoms.com domain is still registered but redirects to
-the POPSUGAR Family page on Facebook, and its DNS is administered under Vox Media (POPSUGAR's parent).
-Circle of Moms never published a public API, developer portal, SDK, or partner platform: web-archive
-crawls of the domain contain no developer, API-documentation, or OAuth paths, and no `developer.` or
-`api.` subdomain has ever been recorded.
+Circle of Moms was an online community for mothers, organized around topical mom groups, discussion threads and mom blogs, covering pregnancy, babies and infants, parenting and family health. It is a portfolio company of Uncork Capital (formerly SoftTech VC) and was later operated under the POPSUGAR brand, whose branding appears on archived captures of the site. The service is no longer operating: the circleofmoms.com domain is still registered but now redirects to the POPSUGAR Family page on Facebook, and its DNS is administered under Vox Media, POPSUGAR's parent. Circle of Moms never published a public API, developer portal, or partner platform — web-archive crawls of the domain contain no developer, API-documentation, or OAuth paths, and no developer or api subdomain has ever been recorded. This profile is retained as a historical company record with no API surface.
 
-This profile is retained as a historical company record.
+**Areas:** Company · Parenting · Community · Social Network · Online Forums · Media · Defunct
 
-Backed by: uncork-capital
+## Circle of Moms on APIs.io (historical record)
+
+Everything profiled for Circle of Moms is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/circle-of-moms/](https://apis.io/providers/circle-of-moms/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Circle Of Moms Domain Security](https://apis.io/security/circle-of-moms/circle-of-moms-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.circleofmoms.com/)
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Circle of Moms: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/circle-of-moms/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
